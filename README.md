@@ -3,7 +3,6 @@
   
 ## 🧠 Smart Farming Agentic AI
 
-profile1 (1).jpg
 
 
 Smart Farming Agentic AI is an AI-powered assistant built using IBM Watsonx.ai that helps farmers get answers to agriculture-related questions—like crop advice, weather insights, pest control, and market prices—using document-based responses in simple language.
