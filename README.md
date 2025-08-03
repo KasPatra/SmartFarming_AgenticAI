@@ -1,19 +1,4 @@
 
-## 📌 Table of Contents
-
-- [🧠 Smart Farming Agentic AI](#smart-farming-agentic-ai)
-- [🌾 Problem Statement](#problem-statement)
-- [💡 Proposed Solution](#proposed-solution)
-- [🧰 Technologies Used](#technologies-used)
-- [☁️ IBM Cloud Services](#ibm-cloud-services)
-- [🎯 Wow Factors](#wow-factors)
-- [👥 End Users](#end-users)
-- [⚙️ How It Works](#how-it-works)
-- [🖼️ Screenshots](#screenshots)
-- [🚀 How to Run & Deploy](#how-to-run--deploy)
-- [🔭 Future Scope](#future-scope)
-- [🔗 Useful Links](#useful-links)
-- [🙌 Author](#author)
 
   
 ## 🧠 Smart Farming Agentic AI
